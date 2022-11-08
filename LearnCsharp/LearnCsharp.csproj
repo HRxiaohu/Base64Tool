@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <FileVersion></FileVersion>
+    <AssemblyVersion></AssemblyVersion>
+    <NeutralLanguage>zh-CN</NeutralLanguage>
+    <PackageIcon></PackageIcon>
+    <Copyright>2022©HRxiaohu</Copyright>
+    <Product></Product>
+    <AssemblyName>Base64Tools</AssemblyName>
+    <RootNamespace>Base64Tools</RootNamespace>
+    <ApplicationIcon>下载.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="下载.ico" />
+  </ItemGroup>
+
+</Project>
